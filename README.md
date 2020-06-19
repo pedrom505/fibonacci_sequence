@@ -22,4 +22,5 @@ To execute the fibonacci program, follow the example bellow:
 $ ./fibonacci.o <term_number>
 ```
 where:
-    term_number - The term required of fibonacci sequence   
+
+term_number - The term required of fibonacci sequence   
